@@ -1,5 +1,5 @@
 #  Mean and variance of a discrete  distribution
- NAME: **SUBHASHINI.B** 
+ NAME: **SUBHASHINI.B**  
  REGISTER NUMBER: **212223040211** 
 
 # Aim : 
